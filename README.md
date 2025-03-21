@@ -1,4 +1,18 @@
-# MCP Task Manager
+# [DEPRECATED] MCP Task Manager
+
+⚠️ **DEPRECATION NOTICE** ⚠️
+
+This package has been renamed and moved to a new repository. Please use the new package instead:
+
+```bash
+npm install taskqueue-mcp
+```
+
+New repository: [taskqueue-mcp](https://github.com/chriscarrollsmith/taskqueue-mcp)
+
+This repository is no longer maintained. All future updates and improvements will be made to the new package.
+
+---
 
 A Model Context Protocol (MCP) server for AI task management. This tool helps AI assistants handle multi-step tasks in a structured way, with user approval checkpoints.
 
