@@ -1,6 +1,6 @@
 {
 	"name": "@chriscarrollsmith/mcp-taskmanager",
-	"version": "1.0.8",
+	"version": "1.0.9",
 	"description": "[DEPRECATED] Task Manager MCP Server - Please use taskqueue-mcp instead",
 	"deprecated": "This package has been renamed. Please use taskqueue-mcp instead: npm install taskqueue-mcp",
 	"author": "Christopher C. Smith (christopher.smith@promptlytechnologies.com)",
